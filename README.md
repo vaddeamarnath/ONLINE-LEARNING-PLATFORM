@@ -15,3 +15,8 @@
 ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5f5f620c-f8a7-47f9-89ea-3feeaf304312)
+
+![Image](https://github.com/user-attachments/assets/92c75312-03d9-4ce1-b901-c7f0b880a1b9)
+
